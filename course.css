@@ -544,6 +544,9 @@ body{
         height: 270px;
 
     }
+    #choose{
+       background-attachment:scroll;
+   }
     #hero{
         margin-top: 30px;
     }
