@@ -669,7 +669,11 @@ body{
     #choose{
         height: fit-content;
         padding: 20px;
+         background-attachment:scroll;
     }
+    #data{
+       background-attachment:scroll;
+   }
 
     #choose-step{
         flex-direction: column;
