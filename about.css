@@ -482,6 +482,12 @@
     #ab-4-con{
         margin: 10px 20px;
     }
+   #choose{
+       background-attachment:scroll;
+   }
+    #bg{
+       background-attachment:scroll;
+   }
 }
 
 @media (max-width:680px){
